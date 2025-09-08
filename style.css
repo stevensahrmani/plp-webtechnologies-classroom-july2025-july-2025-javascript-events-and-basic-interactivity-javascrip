@@ -1,0 +1,13 @@
+. dark-theme {
+    background-color: #333;
+    color: #fff;
+}
+
+#counter-container {
+    margin-top: 20px;
+}
+
+#error-message {
+    color: red;
+    margin-top: 10px;
+}
